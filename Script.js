@@ -18,5 +18,6 @@ z = 10
 c = z++
 document.write(c + "<br")
 
-Str = "Read"
+var Str = "Read"
+document.write(Str)
 document.write(!!Str)
