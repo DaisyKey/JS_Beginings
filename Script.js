@@ -16,7 +16,7 @@ document.write(eval(y)+ "<br>")
 var c,z
 z = 10
 c = z++
-document.write(c + "<br")
+document.write(c + "<br>")
 
 var Str = "Read"
 document.write(Str)
