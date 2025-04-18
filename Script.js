@@ -20,4 +20,5 @@ document.write(c + "<br>")
 
 var Str = "Read"
 document.write(Str)
+document.write(!Str)
 document.write(!!Str)
