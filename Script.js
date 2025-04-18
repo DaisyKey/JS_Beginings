@@ -11,4 +11,9 @@ document.write(x + "<br>")
 
 var y = "3*12 - 10"
 document.write(y+"=")
-document.write(eval(y))
+document.write(eval(y)+ "<br>")
+
+var c,z
+z = 10
+c = z++
+document.write(c)
